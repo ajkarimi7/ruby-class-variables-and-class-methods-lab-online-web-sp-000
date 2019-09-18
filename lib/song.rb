@@ -15,7 +15,7 @@ class Song
     @@genres << genre
   end 
   
-  @@son
+  
   
   
   # song.count 

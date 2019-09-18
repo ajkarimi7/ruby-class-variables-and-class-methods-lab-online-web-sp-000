@@ -35,6 +35,7 @@ class Song
     artist_count
   end 
   
+  def 
   
   
   # song.count 

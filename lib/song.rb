@@ -19,7 +19,8 @@ class Song
     @@count
   end 
   
-  def
+  def self.artists
+    @@artist
   
   
   # song.count 

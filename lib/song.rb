@@ -6,7 +6,8 @@ class Song
     @genre = genre
   end 
   
-  attr_accessor :name, 
+  attr_accessor :name, :artist, :genre 
+  
   # song.count 
   
   # song.artist_count
